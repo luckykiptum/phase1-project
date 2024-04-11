@@ -1,0 +1,39 @@
+
+{
+"coffee" : [
+    {
+        "id": "Cold brew",
+        "type": "cold",
+        "origin": "brazil",
+        "organic": "yes",
+        "roast": "light",
+        "price" : "$3.99"
+    },
+    {
+        "id": "cappucino",
+        "type": "cold",
+        "origin": "kenya",
+        "organic": "yes",
+        "roast": "dark",
+        "price": "$4.99"
+    },
+    {
+        "id": "Iced mocha",
+        "type": "cold",
+        "origin": "ethiopia",
+        "organic": "no",
+        "roast": "light",
+        "price" : "$2.99"
+    },
+    {
+        "id": "Latte",
+        "type": "hot",
+        "origin": "brazil",
+        "organic": "no",
+        "roast": "light",
+        "price" : "$3.5"
+
+    }
+
+] 
+}
