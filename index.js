@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
 function getBeverages() {
     let beverageList = document.getElementById('theList');
 
-    fetch("https://coffee-json.onrender.com")
+    fetch("https://coffee-json.onrender.com/coffee")
         .then(res => res.json())
         .then((data) => {
             data.forEach(beverage => {
